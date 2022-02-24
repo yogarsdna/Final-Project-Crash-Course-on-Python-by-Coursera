@@ -1,1 +1,3 @@
 # Final Project Crash Course on Python by Coursera
+
+This final project is the last step to complete the course named Crash Course on Python. In this final project, I will make a Word Cloud where it will process the text, remove punctuation, ignore case and words that do not contain all alphabets, count the frequencies, and ignore uninteresting or irrelevant words from an e-book. After it's done processing the text and getting the result, the script will visualize it. And for my final project, the e-book that I choose is [The Rockspur Eleven: A Fine Football Story for Boys by Burt L. Standish](https://www.gutenberg.org/ebooks/67397).
